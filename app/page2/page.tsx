@@ -41,29 +41,19 @@ export default function Page(){
 
         </section>
         <section>
-            <Container>
-                <div className="grid">
-                    <div className="group ">
-                        <div className="p-[30px] transition-all duration-300 ease-out group-hover:bg-cprimary  font-title rounded-t-[10px] bg-cprimary/20">
-                           <div className="flex justify-between items-center">
+            <Container className="min-[576px]:max-w-[540px] md:max-w-[720px]">
+                <div className="grid gap-6 min-[576px]:w-[83%] md:w-full mx-auto md:grid-cols-2 place-items-stretch">
+                    <div>
+                        <div className="p-[30px]  transition-all duration-300 ease-out group-hover:bg-cprimary  font-title rounded-t-[10px] bg-cprimary/20">
+                            <div className="flex justify-between items-center mb-[25px]">
                                 <PersonStanding size={38}/>
                                 <Button className="text-[14px] border-[#202020] border text-[#202020] outline-none bg-inherit  rounded-[25px] font-bold capitalize ">completed case (12)</Button>
-                           </div>
+                            </div>
                             <span className="capitalize   text-cctextColor1  text-[1.5rem] font-bold">business law</span>
                         </div>
-                        <div className="p-[30px] transition-all duration-300 ease-out group-hover:bg-[#202020] bg-[#20202026] ">
+                        <div className="p-[30px] transition-all duration-300 ease-out group-hover:bg-[#202020] h-full bg-[#20202026]  ">
                             <p className="leading-[1.8] text-cdark2 text-[16px] group-hover:text-white">In consequat tincidunt turpis sit ametoi imperdiet. Praesent Class officelan gola nonatoureanor mauris.</p>
                         </div>
-
-                    </div>
-                    <div className="group ">
-                        <div className="p-[30px] transition-all duration-300 ease-out group-hover:bg-cprimary  font-title rounded-t-[10px] bg-cprimary/20">
-                            <span className="capitalize   text-cctextColor1  text-[1.5rem] font-bold">business law</span>
-                        </div>
-                        <div className="p-[30px] transition-all duration-300 ease-out group-hover:bg-stone-600 bg-[#20202026] ">
-                            <p className="leading-[1.8] text-[16px] group-hover:text-white">In consequat tincidunt turpis sit ametoi imperdiet. Praesent Class officelan gola nonatoureanor mauris.</p>
-                        </div>
-
                     </div>
                 </div>
             </Container>
