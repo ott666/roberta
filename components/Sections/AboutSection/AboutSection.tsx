@@ -29,8 +29,8 @@ export const AboutSection = () =>{
                         </div>
                     </div>
                     <div className="w-full flex justify-center min-[992px]:px-[10px] min-[992px]:justify-end">
-                        <div className=" rounded-[240px] max-[991px]:mt-[70px] max-w-[530px] ml-[40px] before:z-[1]  relative before:top-[15px] before:h-full before:rounded-[240px] before:absolute before:w-full before:right-[15px] before:bg-cdark/0 mb-[15px] bg-black">
-                        <img src="/sobre.jpg" className="rounded-[240px] object-cover h-full" alt="lala" />
+                        <div className=" rounded-[240px] max-[991px]:mt-[70px] max-w-[530px] ml-[40px] before:z-[1]  relative before:top-[15px] before:h-full before:rounded-[240px] before:absolute before:w-full before:right-[15px] before:bg-cprimary/20 mb-[15px] bg-black">
+                        <img src="/sobre.jpeg" className="rounded-[240px] object-cover" alt="lala" />
                         <div className="absolute w-full max-w-[170px] text-center bg-cctextColor1  rounded-[50%] h-full max-h-[170px] min-[577px]:top-[-25px] min-[577px]:right-[-25px] flex flex-col items-center justify-center max-[576px]:top-[185px] max-[576px]:right-[10px] 
                             before:absolute before:rounded-[50%] before:left-[-5px] before:top-[-5px]  before:z-[-1] before:bg-white before:border-cctextColor1 before:border-[2px] before:w-[106%] before:h-[106%] before:max-h-[190px] ">
                             <div className="mb-[.5rem]">

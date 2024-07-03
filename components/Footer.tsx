@@ -63,7 +63,7 @@ export const Footer = () => {
                 <p className="text-white text-xl block">Contato</p>
                 <p className="text-white/70 text-md block">rcavarzani@gmail.com</p>
                 <p className="text-white/70 text-md block">hermesmurtha@yahoo.com.br</p>
-                <p className="text-white/70 text-md block">(16) 99799-8799</p>
+                <p className="text-white/70 text-md block">(16) 99209-6845</p>
                 <p className="text-white/70 text-md block">(16) 99112-6461</p>
               </div>
             </div>
