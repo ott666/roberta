@@ -13,7 +13,7 @@ const Breadcrumb = () => {
   console.log(img);
 
   // Mapeamento das rotas para substituição
-  const routeMap = {
+  const routeMap: { [key: string]: string } = {
     'atuacao': 'atuação',
     'saude': 'área da saúde',
     'direito-imobiliario': 'direito imobiliário',
@@ -31,7 +31,7 @@ const Breadcrumb = () => {
   }
 
   // Função para obter o título da rota
-  const getTitle = (part) => {
+  const getTitle = (part: string): string => {
     return routeMap[part] || decodeURIComponent(part);
   };
 
