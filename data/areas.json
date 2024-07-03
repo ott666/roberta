@@ -1,0 +1,172 @@
+[
+    {
+        "id":1,        
+        "title":"Direito Eleitoral",
+        "cardText":"Especialistas em Direito Eleitoral, atuando em campanhas, registro de candidaturas, defesa de direitos políticos e contencioso eleitoral.",
+        "urlImg":"/breadcrumb/direito-eleitoral.jpg",
+        "url":"/atuacao/direito-eleitoral",
+        "pageTitle":"Consultoria Eleitoral para Partidos e Candidatos",
+        "pageText":"Oferecemos ampla experiência em Consultoria e Assessoria Jurídica para Partidos Políticos em níveis Nacional, Estadual e Municipal, atuando tanto de forma preventiva quanto contenciosa.",
+        "pageText2":"Na área de consultoria jurídica para partidos políticos, orientamos na formação, organização e registro de partidos, garantindo conformidade com a Lei dos Partidos Políticos e estatutos partidários. Prestamos assistência e defesa em processos disciplinares internos, promovidos contra órgãos partidários ou filiados. Oferecemos suporte em convenções, reuniões e outros eventos partidários, além de representar nossos clientes em ações judiciais para questionar a regularidade dos atos partidários. Também fornecemos consultoria no processo de prestação de contas, tanto administrativo quanto judicial.",
+        "pageItems":
+            {
+                "1":
+                    {   "id":1,
+                        "title":"Consultoria e Assessoria para Candidatos",
+                        "text":"Assessoramos campanhas eleitorais majoritárias e proporcionais, garantindo conformidade com as regras eleitorais complexas e abordando os desafios das novas tecnologias e mídias sociais na divulgação de candidaturas e propostas políticas."
+                    },
+                "2":
+                    {
+                        "id":2,
+                        "title":"Consultoria e Assessoria para Filiação Partidária",
+                        "text":"Nós auxiliamos com qualidade no processo de filiação, desfiliação e cancelamento, garantindo segurança jurídica a candidatos e partidos políticos."
+                    },
+                "3":
+                    {
+                        "id":3,
+                        "title":"Consultoria Assessoria para Partidos Políticos",                       
+                        "text":"Oferecemos consultoria jurídica para constituição, organização e registro de partidos, defesa em processos internos, apoio em convenções e reuniões, e assistência na prestação de contas, administrativa ou judicial."
+                    }
+            }
+    },
+    {
+        "id": 6,
+        "title": "Área da Saúde",
+        "cardText": "Especialistas em Saúde, oferecendo orientação jurídica para pacientes e consumidores, abrangendo direitos do paciente, responsabilidade médica e questões relacionadas à saúde.",
+        "urlImg": "/breadcrumb/area-da-saude.jpg",
+        "url": "/atuacao/saude",
+        "pageTitle": "Orientação Jurídica em Saúde para Pacientes",
+        "pageText": "Em questões de saúde, é essencial entender seus direitos e opções. Nós oferecemos orientação jurídica especializada para pacientes e consumidores, ajudando a proteger seus interesses e garantir o acesso a tratamentos adequados.",
+        "pageText2": "Desde questões de responsabilidade médica até direitos do paciente e disputas de seguros de saúde, estamos aqui para fornecer suporte legal claro e eficaz. Entre em contato conosco para obter assistência em suas questões de saúde com confiança.",
+        "pageItems": {
+          "1": {
+            "id": 1,
+            "title": "Direitos do Paciente",
+            "text": "Esclarecemos seus direitos como paciente, garantindo que você receba tratamento justo e adequado, respeitando seus direitos legais durante todo o processo de cuidado médico."
+          },
+          "2": {
+            "id": 2,
+            "title": "Responsabilidade Médica",
+            "text": "Oferecemos assistência em casos de negligência médica e responsabilidade profissional, garantindo que suas preocupações com a qualidade do atendimento sejam devidamente abordadas."
+          },
+          "3": {
+            "id": 3,
+            "title": "Disputas de Seguro de Saúde",
+            "text": "Auxiliamos na resolução de disputas com seguros de saúde, assegurando que você receba cobertura adequada conforme contratado e protegendo seus direitos como segurado."
+          }
+        }
+    },      
+    {
+        
+        "id": 3,
+        "title": "Direito Criminal",
+        "cardText": "Especialistas em Direito Criminal, oferecendo defesa especializada em prisões em flagrante, audiências de custódia, processos do Tribunal do Júri, impetração de habeas corpus e benefícios em execução penal.",
+        "urlImg": "/breadcrumb/area-criminal.jpg",
+        "url": "/atuacao/direito-criminal",
+        "pageTitle": "Defesa Criminal Especializada",
+        "pageText": "Em momentos desafiadores que envolvem questões legais, é crucial contar com o suporte de uma equipe jurídica comprometida. Nós oferecemos uma defesa robusta e dedicada para cada cliente. Com um profundo conhecimento da lei e uma abordagem estratégica, estamos aqui para guiar você através dos intricados caminhos do sistema jurídico.",
+        "pageText2": "Nossa missão é assegurar que seus direitos sejam protegidos com vigor e justiça. Do início ao fim, estamos ao seu lado, lutando para alcançar os melhores resultados possíveis em seu caso. Compreendemos a importância de cada detalhe e nos comprometemos a oferecer uma representação legal que você possa confiar. Agende hoje mesmo sua consulta inicial e dê o primeiro passo rumo a uma resolução positiva. Sua tranquilidade e seus direitos são nossa prioridade.",
+        "pageItems": {
+            "1": {
+            "id": 1,
+            "title": "Defesa em Prisão em Flagrante",
+            "text": "Oferecemos orientação especializada e representação para clientes enfrentando prisão em flagrante, garantindo uma abordagem estratégica para o interrogatório e ações subsequentes."
+            },
+            "2": {
+            "id": 2,
+            "title": "Defesa em Audiência de Custódia",
+            "text": "Asseguramos que seu direito de ser ouvido seja respeitado durante a audiência de custódia, considerando todas as circunstâncias cruciais do caso para uma defesa eficaz."
+            },
+            "3": {
+            "id": 3,
+            "title": "Processos do Tribunal do Júri",
+            "text": "Analisamos minuciosamente todas as provas apresentadas no caso, incluindo depoimentos de testemunhas e evidências físicas, para garantir uma defesa robusta no Tribunal do Júri."
+            }
+        }
+          
+          
+    },   
+    {
+        "id": 4,
+        "title": "Direito Imobiliário",
+        "cardText": "Especialistas em Negócios Imobiliários, oferecendo serviços especializados em compra, venda e locação de imóveis residenciais e comerciais, além de assessoria jurídica para contratos e transações imobiliárias.",
+        "urlImg": "/breadcrumb/direito-imobiliario.jpg",
+        "url": "/atuacao/imobiliaria",
+        "pageTitle": "Assessoria Imobiliária Especializada",
+        "pageText": "No dinâmico mercado imobiliário, contar com profissionais experientes faz toda a diferença. Nós oferecemos uma assessoria completa para compra, venda e locação de imóveis, combinando conhecimento jurídico sólido com uma abordagem estratégica para garantir transações bem-sucedidas.",
+        "pageText2": "Nosso compromisso é assegurar que cada detalhe seja cuidadosamente revisado, protegendo seus interesses em cada etapa do processo. Entre em contato conosco hoje mesmo para explorar suas opções e alcançar seus objetivos imobiliários com confiança e segurança.",
+        "pageItems": {
+          "1": {
+            "id": 1,
+            "title": "Compra e Venda de Imóveis",
+            "text": "Assessoramos clientes em todas as etapas do processo de compra e venda de imóveis, garantindo conformidade legal e proteção de seus direitos durante negociações e fechamento de contratos."
+          },
+          "2": {
+            "id": 2,
+            "title": "Locação de Imóveis",
+            "text": "Oferecemos suporte especializado em contratos de locação, ajudando proprietários e locatários a entender seus direitos e deveres para uma relação contratual transparente e segura."
+          },
+          "3": {
+            "id": 3,
+            "title": "Assessoria Jurídica Imobiliária",
+            "text": "Proporcionamos orientação jurídica especializada em questões imobiliárias, incluindo análise e elaboração de contratos, para garantir segurança jurídica em transações imobiliárias complexas."
+          }
+        }
+    },
+      
+    {
+        "id": 7,
+        "title": "Direito Civil",
+        "cardText": "Especialistas em Direito Civil, oferecendo consultoria e representação em diversas áreas, incluindo contratos, família, consumidor, propriedade e responsabilidade civil.",
+        "urlImg": "/breadcrumb/direito-civil.jpg",
+        "url": "/atuacao/direito-civil",
+        "pageTitle": "Consultoria e Representação em Direito Civil",
+        "pageText": "No complexo campo do direito civil, é fundamental contar com orientação jurídica especializada. Nós oferecemos consultoria abrangente e representação eficaz em uma variedade de questões legais, adaptando nossa abordagem às necessidades específicas de cada cliente.",
+        "pageText2": "Desde a elaboração de contratos até disputas familiares e responsabilidade civil, estamos comprometidos em proteger seus direitos e interesses. Entre em contato conosco para discutir suas necessidades jurídicas e buscar soluções confiáveis.",
+        "pageItems": {
+          "1": {
+            "id": 1,
+            "title": "Elaboração de Contratos",
+            "text": "Assistimos na redação e revisão de contratos comerciais e pessoais, garantindo que seus direitos sejam protegidos e que todos os termos sejam claros e legalmente válidos."
+          },
+          "2": {
+            "id": 2,
+            "title": "Questões Familiares",
+            "text": "Oferecemos suporte em questões familiares, como divórcio, guarda de filhos, pensão alimentícia e partilha de bens, buscando soluções justas e sustentáveis para todas as partes envolvidas."
+          },
+          "3": {
+            "id": 3,
+            "title": "Responsabilidade Civil",
+            "text": "Proporcionamos representação em casos de responsabilidade civil, incluindo danos pessoais, acidentes e disputas entre partes, assegurando que você receba a compensação justa por seus danos."
+          }
+        }
+    },      
+    {
+        "id": 5,
+        "title": "Empresarial",
+        "cardText": "Especialistas em Soluções Empresariais, oferecendo suporte estratégico para empresas em áreas como gestão financeira, estratégia de mercado, e compliance.",
+        "urlImg": "/breadcrumb/solucoes-empresariais.jpg",
+        "url": "/atuacao/solucoes-empresariais",
+        "pageTitle": "Suporte Estratégico para Empresas",
+        "pageText": "No competitivo mundo dos negócios, cada decisão conta. Nós oferecemos suporte estratégico para empresas em diversas áreas-chave, ajudando a alcançar crescimento sustentável e compliance regulatório.",
+        "pageText2": "Com um foco claro em resultados e eficiência operacional, trabalhamos lado a lado com nossos clientes para superar desafios e aproveitar oportunidades de mercado. Entre em contato conosco para descobrir como podemos impulsionar o seu negócio rumo ao sucesso.",
+        "pageItems": {
+          "1": {
+            "id": 1,
+            "title": "Gestão Financeira",
+            "text": "Oferecemos análise financeira detalhada e estratégias personalizadas para otimizar a gestão financeira de sua empresa, garantindo sustentabilidade e crescimento."
+          },
+          "2": {
+            "id": 2,
+            "title": "Estratégia de Mercado",
+            "text": "Desenvolvemos planos de mercado eficazes e adaptados às necessidades de sua empresa, ajudando a posicionar sua marca de forma competitiva e maximizar suas oportunidades de crescimento."
+          },
+          "3": {
+            "id": 3,
+            "title": "Compliance Empresarial",
+            "text": "Asseguramos que sua empresa esteja em conformidade com todas as regulamentações vigentes, oferecendo suporte especializado para implementação de políticas e procedimentos internos."
+          }
+        }
+      }
+      
+]

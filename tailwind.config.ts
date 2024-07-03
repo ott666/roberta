@@ -22,13 +22,14 @@ const config = {
         "xs":"500px",
       },
       fontFamily:{
-        "title":"var(--font-title)"
+        "title":"var(--font-title)",
+        "playfair":"var(--font-playfair)"
       },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
-        cprimary:"#dea057",
+        cprimary:"#E6BE69",
         clight:"#9b9b9b",
         cdark:"#202020",
         cdark2:"#212529",
@@ -91,6 +92,9 @@ const config = {
         "accordion-up": "accordion-up 0.2s ease-out",
         "scaleAnimation": 'customScale 24s linear infinite',
       },
+      aspectRatio:{
+        '3/4':'3/4'
+      }
     },
   },
   plugins: [require("tailwindcss-animate")],
